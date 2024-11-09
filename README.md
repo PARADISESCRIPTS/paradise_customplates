@@ -1,7 +1,11 @@
 # Custom Plates
 
 This Script Utilizes:
+
+
 1: [QBOX](https://github.com/Qbox-project) / [QBCore](https://github.com/qbcore-framework)
+
+
 2: [ox_lib](https://github.com/overextended/ox_lib)
 
 [Preview](https://youtu.be/hXGn1nmWppI)
